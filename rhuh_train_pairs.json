@@ -1,0 +1,177 @@
+[
+    {
+        "p_id": "RHUH-0025",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0025-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0025-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0031",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0031-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0031-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0012",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0012-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0012-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0005",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0005-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0005-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0033",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0033-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0033-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0022",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0022-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0022-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0029",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0029-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0029-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0024",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0024-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0024-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0019",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0019-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0019-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0013",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0013-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0013-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0035",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0035-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0035-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0036",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0036-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0036-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0027",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0027-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0027-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0014",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0014-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0014-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0023",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0023-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0023-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0021",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0021-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0021-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0032",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0032-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0032-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0038",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0038-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0038-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0030",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0030-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0030-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0020",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0020-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0020-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0017",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0017-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0017-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0040",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0040-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0040-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0034",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0034-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0034-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0003",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0003-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0003-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0001",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0001-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0001-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0039",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0039-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0039-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0028",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0028-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0028-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0006",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0006-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0006-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0007",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0007-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0007-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0009",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0009-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0009-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0015",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0015-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0015-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0016",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0016-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0016-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0018",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0018-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0018-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0002",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0002-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0002-101-t1c.nii.gz"
+    },
+    {
+        "p_id": "RHUH-0008",
+        "pre_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0008-100-t1c.nii.gz",
+        "post_op_img": "E:\\deep learning code\\3D_MedDiffusion_Code\\RHUH_standardized\\RHUH-0008-101-t1c.nii.gz"
+    }
+]

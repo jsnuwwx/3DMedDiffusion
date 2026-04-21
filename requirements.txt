@@ -1,0 +1,35 @@
+#核心深度学习# 核心深度学习
+pytorch-lightning==2.5.0.post0
+torchmetrics==1.6.1
+
+# 3D 医疗影像与生成 (核心)
+monai==1.4.0
+monai-generative==0.2.3
+nibabel==5.3.2
+SimpleITK==2.4.0
+torchio==0.20.3
+pydicom==3.0.1
+
+# 论文特定架构 (BiFlowNet/DiT)
+einops==0.8.0
+einops-exts==0.0.4
+timm==1.0.14
+rotary-embedding-torch==0.8.6
+safetensors==0.5.2
+
+# 科学计算与数据
+numpy
+scipy
+pandas==2.2.3
+scikit-image==0.25.0
+scikit-video==1.1.11
+imageio==2.37.0
+
+# 基础工具
+omegaconf==2.3.0
+PyYAML==6.0.2
+tqdm==4.67.1
+pillow==10.2.0
+huggingface-hub==0.27.1
+tensorboard==2.18.0
+absl-py==2.1.0
