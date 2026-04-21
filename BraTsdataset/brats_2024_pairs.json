@@ -1,0 +1,992 @@
+[
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00005-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00005-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00005-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00006-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00006-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00006-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00008-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00008-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00008-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00009-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00009-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00009-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00020-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00020-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00020-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00027-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00027-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00027-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00033-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00033-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00033-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00046-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00046-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00046-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00060-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00060-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00060-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00063-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00063-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00063-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00078-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00078-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00078-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00080-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00080-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00080-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00085-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00085-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00085-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00096-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00096-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00096-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00463-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00463-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00463-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00469-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00469-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00469-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00472-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00472-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00472-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00483-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00483-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00483-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00485-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00485-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00485-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00491-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00491-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00491-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00498-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00498-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00498-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00505-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00505-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00505-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00506-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00506-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00506-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00507-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00507-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00507-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00511-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00511-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00511-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00512-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00512-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00512-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00517-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00517-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00517-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00518-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00518-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00518-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00528-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00528-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00528-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00529-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00529-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00529-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00533-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00533-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00533-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00543-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00543-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00543-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00547-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00547-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00547-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00548-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00548-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00548-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00549-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00549-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00549-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00553-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00553-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00553-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00556-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00556-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00556-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00557-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00557-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-00557-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02060-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02060-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02060-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02061-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02061-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02061-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02062-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02062-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02062-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02063-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02063-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02063-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02064-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02064-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02064-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02066-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02066-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02066-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02068-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02068-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02068-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02069-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02069-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02069-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02070-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02070-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02070-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02071-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02071-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02071-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02072-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02072-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02072-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02074-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02074-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02074-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02076-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02076-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02076-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02077-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02077-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02077-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02078-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02078-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02078-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02079-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02079-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02079-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02081-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02081-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02081-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02082-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02082-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02082-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02083-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02083-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02083-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02084-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02084-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02084-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02085-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02085-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02085-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02086-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02086-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02086-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02087-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02087-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02087-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02088-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02088-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02088-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02089-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02089-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02089-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02091-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02091-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02091-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02092-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02092-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02092-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02093-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02093-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02093-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02096-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02096-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02096-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02099-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02099-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02099-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02100-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02100-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02100-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02101-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02101-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02101-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02102-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02102-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02102-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02103-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02103-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02103-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02104-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02104-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02104-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02105-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02105-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02105-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02106-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02106-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02106-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02108-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02108-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02108-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02110-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02110-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02110-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02111-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02111-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02111-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02112-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02112-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02112-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02114-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02114-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02114-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02115-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02115-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02115-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02116-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02116-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02116-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02118-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02118-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02118-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02119-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02119-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02119-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02120-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02120-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02120-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02123-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02123-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02123-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02124-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02124-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02124-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02128-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02128-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02128-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02129-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02129-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02129-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02131-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02131-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02131-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02132-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02132-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02132-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02135-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02135-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02135-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02136-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02136-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02136-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02137-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02137-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02137-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02138-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02138-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02138-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02139-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02139-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02139-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02141-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02141-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02141-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02143-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02143-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02143-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02144-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02144-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02144-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02145-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02145-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02145-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02146-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02146-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02146-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02147-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02147-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02147-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02149-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02149-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02149-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02151-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02151-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02151-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02152-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02152-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02152-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02153-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02153-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02153-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02154-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02154-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02154-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02155-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02155-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02155-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02156-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02156-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02156-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02157-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02157-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02157-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02158-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02158-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02158-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02160-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02160-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02160-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02162-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02162-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02162-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02164-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02164-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02164-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02165-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02165-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02165-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02166-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02166-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02166-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02167-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02167-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02167-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02169-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02169-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02169-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02170-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02170-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02170-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02171-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02171-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02171-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02172-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02172-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02172-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02174-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02174-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02174-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02175-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02175-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02175-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02176-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02176-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02176-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02178-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02178-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02178-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02181-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02181-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02181-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02184-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02184-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02184-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02185-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02185-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02185-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02186-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02186-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02186-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02188-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02188-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02188-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02191-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02191-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02191-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02192-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02192-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02192-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02193-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02193-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02193-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02194-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02194-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02194-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02195-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02195-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02195-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02196-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02196-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02196-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02197-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02197-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02197-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02198-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02198-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02198-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02199-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02199-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02199-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02204-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02204-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02204-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02205-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02205-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02205-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02206-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02206-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02206-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02207-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02207-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02207-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02208-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02208-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02208-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02209-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02209-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02209-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02215-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02215-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02215-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02216-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02216-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02216-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02217-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02217-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02217-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02218-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02218-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02218-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02219-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02219-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02219-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02220-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02220-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02220-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02221-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02221-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02221-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02225-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02225-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02225-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02226-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02226-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02226-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02227-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02227-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02227-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02230-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02230-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02230-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02236-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02236-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02236-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02237-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02237-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02237-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02238-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02238-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02238-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02239-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02239-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02239-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02240-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02240-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02240-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02241-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02241-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02241-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02242-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02242-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02242-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02243-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02243-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02243-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02244-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02244-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02244-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02245-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02245-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02245-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02246-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02246-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02246-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02247-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02247-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02247-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02248-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02248-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02248-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02249-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02249-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02249-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02254-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02254-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02254-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02256-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02256-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02256-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02258-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02258-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02258-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02267-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02267-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02267-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02268-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02268-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02268-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02269-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02269-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02269-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02285-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02285-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02285-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02287-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02287-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02287-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02289-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02289-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02289-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02290-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02290-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02290-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02300-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02300-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02300-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02303-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02303-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02303-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02307-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02307-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02307-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02335-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02335-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02335-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02358-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02358-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02358-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02375-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02375-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02375-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02378-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02378-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02378-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02379-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02379-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02379-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02388-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02388-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02388-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02390-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02390-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02390-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02498-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02498-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02498-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02514-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02514-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02514-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02515-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02515-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02515-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02517-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02517-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02517-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02518-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02518-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02518-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02520-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02520-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02520-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02524-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02524-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02524-101-seg.nii"
+    },
+    {
+        "pre_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02547-100-t1c.nii",
+        "post_op_img": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02547-101-t1c.nii",
+        "post_op_seg": "/mnt/proj/3D_MedDiffusion/BraTsdataset/data/BraTS-GLI-02547-101-seg.nii"
+    }
+]
